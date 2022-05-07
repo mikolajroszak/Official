@@ -1,0 +1,51 @@
+<svg width="168" height="168" viewBox="0 0 168 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="168" height="168" fill="white"/>
+<path d="M93 46V66" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M61 78L96 43" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M72.3125 66L62 43L84 54.1515" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M61 69C61.254 67.0952 63.2095 62.4286 69 59" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M71 63C71 63 71 59.2187 74 55.7812C76.4 53.0312 79 52 79 52" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M75 50C76.5867 48.2848 82.208 45.1289 92 46.2266" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M66 54C66.1222 52.5882 67.2467 49.4118 70.7667 48M72.9667 49.0588C72.9667 47.7647 73.7733 44.5412 77 42" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M67 55.2238C65.5556 54.8471 61.9333 54.6748 59 57" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M42 124.4C46.6667 128.134 61.6 135.6 84 135.6C106.4 135.6 121.333 128.134 126 124.4" stroke="#0A0B0D" stroke-width="2"/>
+<rect x="106.4" y="43.2002" width="11.2" height="44.8" fill="#0052FF"/>
+<rect x="50.3999" y="43.2002" width="11.2" height="44.8" fill="#0052FF"/>
+<rect x="106.4" y="88" width="11.2" height="44.8" transform="rotate(90 106.4 88)" fill="#FFD200"/>
+<rect x="106.4" y="32" width="11.2" height="44.8" transform="rotate(90 106.4 32)" fill="#FFD200"/>
+<rect x="61.6001" y="32" width="11.2" height="11.2" transform="rotate(90 61.6001 32)" fill="#0A0B0D"/>
+<rect x="61.6001" y="88" width="11.2" height="11.2" transform="rotate(90 61.6001 88)" fill="#0A0B0D"/>
+<rect x="117.6" y="32" width="11.2" height="11.2" transform="rotate(90 117.6 32)" fill="#0A0B0D"/>
+<rect x="117.6" y="88" width="11.2" height="11.2" transform="rotate(90 117.6 88)" fill="#0A0B0D"/>
+<rect x="36.3999" y="121.6" width="5.6" height="33.6" fill="#0052FF"/>
+<rect x="126" y="121.6" width="5.6" height="33.6" fill="#0052FF"/>
+<circle cx="39.2001" cy="116" r="5.6" fill="#FFD200"/>
+<circle cx="128.8" cy="116" r="5.6" fill="#FFD200"/>
+<rect x="30.8" y="121.6" width="16.8" height="2.8" fill="#0052FF"/>
+<rect x="120.4" y="121.6" width="16.8" height="2.8" fill="#0052FF"/>
+<rect x="36.3999" y="121.6" width="5.6" height="2.8" fill="#0A0B0D"/>
+<rect x="126" y="121.6" width="5.6" height="2.8" fill="#0A0B0D"/>
+<path d="M83.9999 135.754C69.3403 135.754 57.8787 132.556 50.3999 129.3" stroke="#CED2DB" stroke-width="6"/>
+<path d="M83.9999 135.754C98.6594 135.754 110.121 132.556 117.6 129.3" stroke="#CED2DB" stroke-width="6"/>
+<rect x="140" y="43.2002" width="11.2" height="44.8" fill="#CED2DB"/>
+<rect x="28" y="88" width="11.2" height="44.8" transform="rotate(-180 28 88)" fill="#CED2DB"/>
+<rect x="168" y="88" width="11.2" height="16.8" transform="rotate(90 168 88)" fill="#CED2DB"/>
+<rect y="43.2002" width="11.2" height="16.8" transform="rotate(-90 0 43.2002)" fill="#CED2DB"/>
+<rect x="168" y="32" width="11.2" height="16.8" transform="rotate(90 168 32)" fill="#CED2DB"/>
+<rect y="99.2002" width="11.2" height="16.8" transform="rotate(-90 0 99.2002)" fill="#CED2DB"/>
+<rect x="151.2" y="32" width="11.2" height="11.2" transform="rotate(90 151.2 32)" fill="#0052FF"/>
+<rect x="16.8" y="99.2002" width="11.2" height="11.2" transform="rotate(-90 16.8 99.2002)" fill="#0052FF"/>
+<rect x="151.2" y="88" width="11.2" height="11.2" transform="rotate(90 151.2 88)" fill="#0052FF"/>
+<rect x="16.8" y="43.2002" width="11.2" height="11.2" transform="rotate(-90 16.8 43.2002)" fill="#0052FF"/>
+<path d="M67 94H101" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M56 49L56 82" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M112 49L112 82" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M67 38H101" stroke="#0A0B0D" stroke-width="2"/>
+<rect x="90" y="64" width="5" height="11" rx="2.5" fill="#0A0B0D"/>
+<path d="M95 67H96.5556L99 63" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M90 67L88.4444 67L86 63" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M95 71H96.5556L99 75" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M90 71L88.4444 71L86 75" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M95 69H99" stroke="#0A0B0D" stroke-width="2"/>
+<path d="M90 69L86 69" stroke="#0A0B0D" stroke-width="2"/>
+</svg>
