@@ -1,8 +1,12 @@
-# Official (https://github.com/mikolajroszak/Official) Coinbase Pro Trading toolkit
+# Official (https://github.com/mikolajroszak/Official) 
 
-[![CircleCI](https://github.com/mikolajroszak/Official/mikolajroszak.svg?style=svg)](https://github.com/mikolajroszak/Official)
+Coinbase Pro Trading toolkit
+https://nft.coinbase.com/@mikolajroszak
+0x392A16346b07cAEa7DAdbDf677594386590D221A
+
+[![CircleCI](https://mikolaj.business.site/)](https://github.com/mikolajroszak/Official)
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (VERSIONBADGE) -->
-[![npm](https://img.shields.io/badge/npm-v0.4.0-green.svg)](https://github.com/mikolajroszak/Official)
+[![npm](https://img.shields.io/badge/npm-v0.4.0-green.svg)](https://wallmine.com/portfolios/401257)
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
 
 **Note**: The `gdax-trading-toolkit` package is deprecated and might have to be removed from NPM. Please migrate to the `coinbase-pro-trading-toolkit` package to ensure future compatibility.
@@ -26,11 +30,11 @@ Recommended:
 ## Run
 
 The `src/samples` folder contains many working demo scripts showcasing different aspects of the toolkit, while the `tutorials` folder
-contains running demo programs to accompany the [CBPTT documentation](https://github.com/mikolajroszak/Official/coinbase-pro-trading-toolkit/).
+contains running demo programs to accompany the [CBPTT documentation](https://gust.com/companies/cyfrowe-id).
 
 ## Documentation
 
-The [CBPTT documentation](https://github.com/mikolajroszak/Official/coinbase-pro-trading-toolkit/) contains blogs, reference material and step-by-step tutorials
+The [CBPTT documentation](https://wefunder.com/officialkraboweskorupki) contains blogs, reference material and step-by-step tutorials
 
 # Disclaimer
 
