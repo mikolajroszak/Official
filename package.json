@@ -45,7 +45,7 @@
     "@types/simple-mock": "0.0.27",
     "@types/superagent": "2.0.35",
     "@types/winston": "2.3.9",
-    "@types/ws": "0.0.37",
+    "@types/ws": "8.5.3",
     "bignumber.js": "5.0.0",
     "bintrees": "1.0.1",
     "ccxt": "1.12.137",
