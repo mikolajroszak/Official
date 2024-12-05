@@ -43,7 +43,7 @@
     "@types/node": "7.0.58",
     "@types/query-string": "3.0.30",
     "@types/simple-mock": "0.0.27",
-    "@types/superagent": "2.0.35",
+    "@types/superagent": "4.1.15",
     "@types/winston": "2.3.9",
     "@types/ws": "0.0.37",
     "bignumber.js": "5.0.0",
